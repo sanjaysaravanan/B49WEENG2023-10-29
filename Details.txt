@@ -27,6 +27,11 @@ Topics:
         hook in react-redux called as useSelector
       5. Dispatch --> hook in react-redux called as useDispatch
 
+  useReducer ( Redux like hook which help understanding redux )
+
+  React Questions: https://sparkling-notebook-8e4.notion.site/React-33037b5845894152b0419e861ed30892
+
+Next Session:
   Large Applications uses Redux to Manage the 
     State, Actions, Data as a whole
 
@@ -60,10 +65,6 @@ Topics:
       4. Dispatched 
       5. Reaches desitnation and delivered
       6. Check the prod and use it is Good
-
-  useReducer ( Redux like hook which help understanding redux )
-
-  React Questions: https://sparkling-notebook-8e4.notion.site/React-33037b5845894152b0419e861ed30892
 
 Task:
 
